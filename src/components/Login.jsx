@@ -22,7 +22,7 @@ const Login = () => {
                 />
               </svg>
             </div>
-            Ardiansyah Putra
+            My Coach
           </div>
         </a>
         <div class="relative mt-12 w-full max-w-lg sm:mt-10">
